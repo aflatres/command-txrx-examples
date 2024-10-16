@@ -1,5 +1,43 @@
 {
-    "light-ID": "lt1",
-    "
+    "Light-ID": 1,
+    "Set-Power": true
+}
 
+{
+    "Light-ID": 1,
+    "Set-Power": false
+}
+
+{
+    "Light-ID": 1,
+    "Set-Power": true,
+    "Set-Color": "qsysblue"
+}
+
+{
+    "Light-ID": 1,
+    "Set-Power": true,
+    "Set-Color": "salmon"
+}
+
+{
+    "Light-ID": 2,
+    "Set-Power": true
+}
+
+{
+    "Light-ID": 2,
+    "Set-Power": false
+}
+
+{
+    "Light-ID": 2,
+    "Set-Power": true,
+    "Set-Color": "qsysblue"
+}
+
+{
+    "Light-ID": 2,
+    "Set-Power": true,
+    "Set-Color": "salmon"
 }
