@@ -1,6 +1,6 @@
 # Command Send and Receive Plugin Examples
 
-Sample files that demonstrate how to use the Command Send and Recieve Utility Plugin
+Sample files that demonstrate how to use the Command Send and Recieve Utility Plugin. These files were created for the Q-SYS Communities for Developers platform. Please join Communities for access to more content for developers.
 
 ## Description
 
@@ -21,10 +21,12 @@ This respository consists of two sample files:
 ## Getting Started
 
 - See the "00 Instructions" schematic pages of the design files for instructions on how to use these sample files
+- Page 01 of each file has a an example of how to use the utility Plugin
+- Page 02 of each file has a programming challenge to put your new knowlege to the test. _Please note_ that the programming challenges have accompanying UCIs.
 
 ### Dependencies
 
-- [Q-SYS Designer](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/)
+- [Q-SYS Designer](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) version 9.5 or greater
 
 ## Help
 
@@ -45,4 +47,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-- [Eugene Dunn III](https://github.com/QSC-Eugene) for QA support
+- [Eugene Dunn III](https://github.com/QSC-Eugene) for QA support and and HTTP Server emulation script
+- Curtish Harnish for user testing
