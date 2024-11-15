@@ -1,10 +1,10 @@
-# Command Send and Receive Plugin Examples
+# Command Send and Receive Plugin Tutorials
 
-Sample files that demonstrate how to use the Command Send and Recieve Utility Plugin. These files were created for the Q-SYS Communities for Developers platform. Please join Communities for access to more content for developers.
+Tutorial files that demonstrate how to use the Command Send and Recieve Utility Plugin. These files were created for the Q-SYS Communities for Developers platform. Please join Communities for access to more content for developers.
 
 ## Description
 
-This respository consists of two sample files:
+This respository consists of two tutorial files:
 
 - **Command TxRx Utility TCP Example**
 
@@ -21,7 +21,7 @@ This respository consists of two sample files:
 ## Getting Started
 
 - See the "00 Instructions" schematic pages of the design files for instructions on how to use these sample files
-- Page 01 of each file has a an example of how to use the utility Plugin
+- Page 01 of each file has a demonstration of how to use the utility Plugin
 - Page 02 of each file has a programming challenge to put your new knowlege to the test. _Please note_ that the programming challenges have accompanying UCIs.
 
 ### Dependencies
@@ -48,4 +48,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 - [Eugene Dunn III](https://github.com/QSC-Eugene) for QA support and and HTTP Server emulation script
+- Adam Fosbenner for suggesting that you can use the Command Send/Receive Plugin to connect to named controls.
 - Curtish Harnish for user testing
